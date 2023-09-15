@@ -25,7 +25,7 @@ INTC: Increase with a 54.29156422615051% certainty
 JNJ: Increase with a 79.0641188621521% certainty
 JPM: Increase with a 80.16336560249329% certainty
 KO: Decrease with a 71.17383480072021% certainty
-LCID: Increase with a 99.83362555503845% certainty
+LCID: Increase with a 99.83362555503845% 
 MARA: Decrease with a 96.42125964164734% certainty
 MCD: Increase with a 97.86146879196167% certainty
 META: Decrease with a 96.25081419944763% certainty
